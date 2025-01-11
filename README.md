@@ -23,4 +23,12 @@
 3. Data: A JavaScript file with JSON objects to simulate the in-memory database containing project information.
 
 ## To run this project locally, follow these steps:
-1. Clone the repository: 
+1. Clone the repository: https://github.com/goshy29/react-movies-demo.git
+2. Open the project with your code editor(VS Code) and open New Terminal
+3. To install dependencies, at the Terminal run: npm install
+4. Start the development server: npm start
+Run the App with Docker:
+1. Into the Terminal, run: docker-compose up -d
+2. To stop services: docker-compose down
+
+Open the application in your browser: http://localhost:3000
