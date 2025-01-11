@@ -27,6 +27,7 @@
 2. Open the project with your code editor(VS Code) and open New Terminal
 3. To install dependencies, at the Terminal run: npm install
 4. Start the development server: npm start
+
 Run the App with Docker:
 1. Into the Terminal, run: docker-compose up -d
 2. To stop services: docker-compose down
