@@ -1,2 +1,2 @@
-# react-movies-demo
-React Movies Project Demo
+# React Movies Project Demo
+## Project Description: 
