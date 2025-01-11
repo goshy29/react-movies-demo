@@ -5,7 +5,7 @@
 ## Features:
 1. Responsive Design: The application is fully responsive, ensuring an optimal viewing experience across a wide range of devices, from desktops to mobile phones.
 2. In-Memory Database: Utilizes an in-memory database to store and manage project data, allowing for fast access without the need for a backend server.
-3. Movie List Display: Displays a list of movie items, each featuring a poster, title, description, watching the trailer or add comments.
+3. Movie List Display: Displays a list of movie items, each featuring a poster, title, description, watching a trailer or add comments.
 4. Docker Support: Includes a Dockerfile and Docker Compose file for containerized deployment, making it easy to set up and run the application in a consistent environment.
 5. GitHub Integration: Direct links to GitHub repositories for easy access to source code and project details.
 
