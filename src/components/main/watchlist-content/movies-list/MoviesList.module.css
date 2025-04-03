@@ -6,8 +6,10 @@
     background-color: white;
     opacity: 0.95;
     list-style: none;
-    -webkit-animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
-    animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;    
+
+    /* slide in left effect with css */
+    /* -webkit-animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;
+    animation: slide-in-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) both;     */
 }
 
 .rank {
@@ -20,7 +22,8 @@
     margin-left: 10px;
 }
 
-@-webkit-keyframes slide-in-left {
+/* slide in left effect with css */
+/* @-webkit-keyframes slide-in-left {
     0% {
       -webkit-transform: translateX(-100px);
               transform: translateX(-100px);
@@ -31,9 +34,10 @@
               transform: translateX(0);
       opacity: 1;
     }
-}
+} */
 
-@keyframes slide-in-left {
+/* slide in left effect with css */
+/* @keyframes slide-in-left {
     0% {
       -webkit-transform: translateX(-100px);
               transform: translateX(-100px);
@@ -44,7 +48,7 @@
               transform: translateX(0);
       opacity: 1;
     }
-}
+} */
 
 @media (max-width: 768px) {
     .rank h1{
